@@ -2,18 +2,24 @@ Welcome to my developer portfolio! I'm **Madhuri Gade**, a final-year Computer S
 
 This portfolio highlights my best work—from academic research and internships to impactful real-world projects.
 
+---
+
+🔗 Live Portfolio
 
 🎯 **Visit the Website:**  
 ➡️ [https://v0-new-project-adigmcfbfoa.vercel.app/](https://v0-new-project-adigmcfbfoa.vercel.app/)
 
+---
 
- 🧠 About Me
+🧠 About Me
 
 - 🎓 B.Tech in Computer Science – VIT Vellore (85% CGPA)
 - 🔍 Specializing in AI/ML, Time-Series Forecasting, Real-Time Applications
 - 🧪 Interned as an AI/ML Engineer at **TechQFlow**
 - 📚 Certified in Azure, AWS, and Google Cloud Platforms
 - 🧠 Experienced with Deep Learning (LSTMs, GANs), OCR, and predictive modeling
+
+----
 
 💼 Featured Projects
 
@@ -23,9 +29,9 @@ This portfolio highlights my best work—from academic research and internships 
 | **AI License Plate Recognition** | Automated OCR and speech feedback for license plates | Python, OpenCV, Tesseract OCR | [GitHub](https://github.com/Madhuri-4596/AI-Powered-License-Plate-Detection-and-Recognition) |
 | **Hotel Bar Demand Forecasting** | Time-series based inventory optimization system | Python, LSTM | [GitHub](https://github.com/Madhuri-4596/Time-Series-Demand-Forecasting-for-Hotel-Bar-Operations.) |
 
+---
 
-
-🚀 Tech Stack
+ 🚀 Tech Stack
 
 **Frontend:** React, TailwindCSS  
 **Machine Learning:** Python, TensorFlow, Keras, OpenCV  
@@ -33,8 +39,7 @@ This portfolio highlights my best work—from academic research and internships 
 **Cloud & Certs:** Azure, AWS, Google Cloud (Certified)
 
 ---
-
-## 📄 Resume & Contact
+ 📄 Resume & Contact
 
 - 📧 **Email:** [madhurigade000@gmail.com](mailto:madhurigade000@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/madhuri-dhanunjai](https://linkedin.com/in/madhuri-dhanunjai)  
@@ -43,9 +48,5 @@ This portfolio highlights my best work—from academic research and internships 
 
 ---
 
-## ✨ Final Note
-
-> “Designed with clarity. Built with code. Deployed with purpose.”  
-> — Madhuri Gade 💫
 
 Thank you for visiting my portfolio! Feel free to connect or reach out.
