@@ -7,8 +7,7 @@ This portfolio highlights my best work—from academic research and internships 
 🔗 Live Portfolio
 
 🎯 **Visit the Website:**  
-➡️ [https://v0-new-project-adigmcfbfoa.vercel.app/](https://v0-new-project-adigmcfbfoa.vercel.app/)
-
+➡️ https://kzmqjb8t2q61h3b4imnt.lite.vusercontent.net/#projects
 ---
 
 🧠 About Me
