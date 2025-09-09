@@ -1,123 +1,152 @@
-# 🔥 Hi, I'm **MADHURI** — Blockchain Developer & AI/ML Engineer
+# 👋 Hello, I'm **Madhuri Gade**
 
-  <div align="center">
+  ### **Blockchain Developer** • **AI/ML Engineer** • **VIT Vellore Graduate**
 
-  ### 🚀 *Building solutions that actually work in production*
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=t    
-  rue&multiline=true&width=600&height=100&lines=Blockchain+Developer+%40+Persist+Ventures;AI%2FML+Engineer+%40+Techqflow;10B%2B+Solana+Tokens+Launche    
-  d;90%25%2B+AI+Model+Accuracy)
+  *Building innovative solutions at the intersection of blockchain technology and artificial intelligence*
 
   </div>
 
   ---
 
-  ## 💥 **CURRENTLY DOMINATING**
-  🔥 **Blockchain Developer Intern** @ **Persist Ventures (USA)** | *Remote*
-  - 🚀 **Launched 10B+ token supply** on Solana with complex migration logic
-  - ⚡ **Built bonding curve mechanics** from scratch in Rust + Anchor
-  - 🎯 **Reverse-engineered pump.fun protocol** with custom Web3.js scripts
-  - 💎 **Delivered live demos** that impressed investors and dev teams
+  ## 🚀 **Current Position**
+
+  **Blockchain Developer Intern** at **Persist Ventures** *(Remote, USA)*
+  - Developing and deploying Solana-based token systems with 10B+ supply management
+  - Engineering bonding curve mechanisms using Rust and Anchor framework
+  - Reverse-engineering DeFi protocols and building custom Web3.js integrations
+  - Delivering technical demonstrations to investors and stakeholders
 
   ---
 
-  ## 🏆 **BATTLE-TESTED ACHIEVEMENTS**
+  ## 💼 **Professional Experience**
 
-  ```javascript
-  const madhuri = {
-    role: "Blockchain Developer & AI/ML Engineer",
-    location: "Kadapa, Andhra Pradesh, India",
-    education: "CSE Graduate - VIT Vellore (2025)",
+  <table>
+  <tr>
+  <td width="50%" valign="top">
 
-    currentMission: "Building production-ready blockchain & AI solutions",
+  ### **Blockchain Development**
+  **Persist Ventures, USA** *(Current)*
+  - **Solana Token Launch**: 10B+ supply with migration logic
+  - **Smart Contract Development**: Rust & Anchor
+  - **DeFi Protocol Analysis**: Custom Web3.js solutions
+  - **Investor Presentations**: Technical demos & documentation
 
-    arsenal: {
-      blockchain: ["Solana", "Rust", "Anchor", "Web3.js", "Smart Contracts"],
-      aiml: ["Python", "TensorFlow", "LSTM", "GANs", "OpenCV", "Deep Learning"],
-      cloud: ["AWS Certified", "Azure Certified", "Google Cloud Certified"],
-      languages: ["Python", "JavaScript", "Rust", "Java", "SQL"]
-    },
+  </td>
+  <td width="50%" valign="top">
 
-    achievements: {
-      tokenSupplyLaunched: "10B+",
-      aiModelAccuracy: "90%+",
-      businessImpact: "25%",
-      projectSuccessRate: "100%"
-    },
+  ### **AI/ML Engineering**
+  **Techqflow Software Solutions** *(5 months)*
+  - **Model Development**: 90%+ accuracy achievements
+  - **Data Pipeline Engineering**: 10k+ records processing
+  - **Production Deployment**: Real-time forecasting systems
+  - **Business Impact**: 25% operational efficiency improvement
 
-    motto: "Code with purpose, build with passion, deploy with confidence 🔥"
-  };
-
-  ---
-  🎯 PROJECT ARSENAL
-
-  🤖 AI POWERHOUSE PROJECTS
-
-  - 🩺 Kidney Disease Predictor - GAN + LSTM for healthcare AI
-  - 👁️ License Plate Vision System - 90%+ accuracy OCR with OpenCV
-  - 📈 Smart Forecasting Engine - Time-series inventory optimization
-
-  ⛓️ BLOCKCHAIN DOMINANCE
-
-  - 🚀 Solana Token Launch - 10B supply with migration logic
-  - ⚡ Bonding Curve Engine - Rust/Anchor price discovery system
-  - 🎯 Protocol Reverse Engineering - Full pump.fun replication
+  </td>
+  </tr>
+  </table>
 
   ---
-  📊 GITHUB STATS THAT PROVE IT
+
+  ## 🎯 **Technical Portfolio**
+
+  <div align="center">
+
+  ### **Featured Projects**
+
+  </div>
+
+  | Project | Technology Stack | Achievement | Status |
+  |---------|------------------|-------------|---------|
+  | **🩺 Chronic Kidney Disease Predictor** | Python, GANs, LSTM, TensorFlow | Healthcare AI with temporal analysis | ✅ Deployed |
+  | **👁️ License Plate Recognition System** | OpenCV, Tesseract OCR, Python | 90%+ accuracy with real-time processing | ✅ Production |
+  | **📈 Hotel Inventory Forecasting** | LSTM, Time-Series Analysis, Python | 25% efficiency improvement | ✅ Live |
+  | **⛓️ Solana Token Migration System** | Rust, Anchor, Web3.js, Solana | 10B+ token supply management | ✅ Deployed |
 
   ---
-  🔥 TECH STACK THAT DOMINATES
 
-  Blockchain & Web3
+  ## 🛠️ **Technical Expertise**
 
-  https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
-  https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
-  https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white
+  <div align="center">
 
-  AI/ML & Data Science
+  ### **Core Technologies**
 
-  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-  https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
+  **Blockchain & Web3:** Solana • Rust • Anchor • Web3.js • Smart Contracts
+  **AI/ML & Data Science:** Python • TensorFlow • LSTM • OpenCV • GANs • Scikit-Learn
+  **Cloud Platforms:** AWS (Certified) • Microsoft Azure (Certified) • Google Cloud (Certified)
+  **Development:** JavaScript • Node.js • React • Java • SQL • Git/GitHub
 
-  Cloud & DevOps
-
-  https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-  https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white
-  https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-
-  Languages & Frameworks
-
-  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+  </div>
 
   ---
-  🎯 THE NUMBERS DON'T LIE
 
-  |       🔥 METRIC       | 📈 RESULT |             🎯 IMPACT             |
-  |-----------------------|-----------|-----------------------------------|
-  | Token Supply Launched |   10B+    |   Successful Solana deployment    |
-  |   AI Model Accuracy   |   90%+    |  Production-ready vision systems  |
-  |    Business Impact    |    25%    |  Real cost savings & efficiency   |
-  | Project Success Rate  |   100%    | Every project works in production |
-  | Cloud Certifications  |     3     |    AWS + Azure + Google Cloud     |
+  ## 🎓 **Education & Certifications**
 
-  ---
-  🚀 CONNECT WITH THE BEAST
+  <div align="center">
 
-  https://madhuri-4596.github.io/portfolio
-  https://www.linkedin.com/in/madhuri-dhanunjai/
-  madhurigade000@gmail.com
-  https://madhuri-4596.github.io/portfolio/Madhuri_updated_resume.pdf
+  | Degree/Certification | Institution/Provider | Year | Specialization |
+  |----------------------|---------------------|------|----------------|
+  | **B.Tech Computer Science** | VIT Vellore | 2025 | Software Engineering, AI/ML |
+  | **AWS Solutions Architect** | Amazon Web Services | 2024 | Cloud Architecture |
+  | **Microsoft Azure Fundamentals** | Microsoft | 2024 | Cloud Computing |
+  | **Google Cloud Professional** | Google Cloud | 2024 | Data Engineering |
 
-  🎯 Available for full-time opportunities | 🔥 Ready to build the future
+  </div>
 
   ---
-  "From Solana tokens to AI forecasting — I turn complex problems into production-ready wins" 🚀
 
-  https://github.com/Madhuri-4596/Madhuri-4596/blob/output/github-contribution-grid-snake.svg
+  ## 📈 **Key Achievements**
 
-  ⚡ Always curious, always building — and always ready to take on the next challenge!
+  <div align="center">
+
+  ```typescript
+  interface ProfessionalProfile {
+    name: "Madhuri Gade";
+    role: "Blockchain Developer & AI/ML Engineer";
+    location: "Kadapa, Andhra Pradesh, India";
+    education: "B.Tech CSE - VIT Vellore (2025)";
+
+    currentWork: {
+      company: "Persist Ventures";
+      position: "Blockchain Developer Intern";
+      location: "Remote, USA";
+      focus: ["Solana Development", "DeFi Protocols", "Token Economics"];
+    };
+
+    technicalAchievements: {
+      blockchainDeployments: "10B+ token supply";
+      aiModelAccuracy: "90%+";
+      businessImpact: "25% efficiency improvement";
+      successRate: "100%";
+    };
+
+    expertise: {
+      blockchain: ["Solana", "Rust", "Anchor", "Web3.js"];
+      aiml: ["Python", "TensorFlow", "LSTM", "OpenCV"];
+      cloud: ["AWS", "Azure", "Google Cloud"];
+      languages: ["Python", "JavaScript", "Rust", "Java"];
+    };
+
+    philosophy: "Innovation through practical application";
+  }
+
+  ---
+  🌟 Professional Highlights
+
+  |          Metric          |     Achievement     |          Impact          |
+  |--------------------------|---------------------|--------------------------|
+  |   🚀 Token Deployments   | 10B+ Supply Managed | Successful Solana Launch |
+  | 🤖 AI Model Performance  | 90%+ Accuracy Rate  | Production-Ready Systems |
+  | 📊 Business Optimization | 25% Efficiency Gain |    Real Cost Savings     |
+  | ☁️ Cloud Certifications  |  3 Major Platforms  |  Multi-Cloud Expertise   |
+  | 🏆 Project Success Rate  |   100% Completion   |    Reliable Delivery     |
+
+  ---
+  📞 Contact Information
+
+  📧 Email: madhurigade000@gmail.com💼 LinkedIn: linkedin.com/in/madhuri-dhanunjai🌐 Portfolio: madhuri-4596.github.io/portfolio📍 Location: Kadapa,     
+  Andhra Pradesh, India
+
+  ---
+  Currently available for full-time opportunities in blockchain development and AI/ML engineering
+
+  "Building tomorrow's technology with today's innovation"
