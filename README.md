@@ -1,51 +1,123 @@
-Welcome to my developer portfolio! I'm **Madhuri Gade**, a final-year Computer Science student from VIT Vellore with a strong foundation in AI/ML, forecasting, and scalable software development.
+# 🔥 Hi, I'm **MADHURI** — Blockchain Developer & AI/ML Engineer
 
-This portfolio highlights my best work—from academic research and internships to impactful real-world projects.
+  <div align="center">
 
----
+  ### 🚀 *Building solutions that actually work in production*
 
-🔗 Live Portfolio
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=t    
+  rue&multiline=true&width=600&height=100&lines=Blockchain+Developer+%40+Persist+Ventures;AI%2FML+Engineer+%40+Techqflow;10B%2B+Solana+Tokens+Launche    
+  d;90%25%2B+AI+Model+Accuracy)
 
-🎯 **Visit the Website:**  
-➡️ https://kzmqjb8t2q61h3b4imnt.lite.vusercontent.net/#projects
----
+  </div>
 
-🧠 About Me
+  ---
 
-- 🎓 B.Tech in Computer Science – VIT Vellore (85% CGPA)
-- 🔍 Specializing in AI/ML, Time-Series Forecasting, Real-Time Applications
-- 🧪 Interned as an AI/ML Engineer at **TechQFlow**
-- 📚 Certified in Azure, AWS, and Google Cloud Platforms
-- 🧠 Experienced with Deep Learning (LSTMs, GANs), OCR, and predictive modeling
+  ## 💥 **CURRENTLY DOMINATING**
+  🔥 **Blockchain Developer Intern** @ **Persist Ventures (USA)** | *Remote*
+  - 🚀 **Launched 10B+ token supply** on Solana with complex migration logic
+  - ⚡ **Built bonding curve mechanics** from scratch in Rust + Anchor
+  - 🎯 **Reverse-engineered pump.fun protocol** with custom Web3.js scripts
+  - 💎 **Delivered live demos** that impressed investors and dev teams
 
-----
+  ---
 
-💼 Featured Projects
+  ## 🏆 **BATTLE-TESTED ACHIEVEMENTS**
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **CKD Prediction (GAN + LSTM)** | Synthetic data generation and disease progression modeling | Python, GANs, LSTM | [GitHub](https://github.com/Madhuri-4596/LONGITUDINAL-DL-MODEL-FOR-PREDECTING-CHRONIC-KIDNEY-DISEASE-PROGRESSION-USING-TEMPRAL-CLINIC) |
-| **AI License Plate Recognition** | Automated OCR and speech feedback for license plates | Python, OpenCV, Tesseract OCR | [GitHub](https://github.com/Madhuri-4596/AI-Powered-License-Plate-Detection-and-Recognition) |
-| **Hotel Bar Demand Forecasting** | Time-series based inventory optimization system | Python, LSTM | [GitHub](https://github.com/Madhuri-4596/Time-Series-Demand-Forecasting-for-Hotel-Bar-Operations.) |
+  ```javascript
+  const madhuri = {
+    role: "Blockchain Developer & AI/ML Engineer",
+    location: "Kadapa, Andhra Pradesh, India",
+    education: "CSE Graduate - VIT Vellore (2025)",
 
----
+    currentMission: "Building production-ready blockchain & AI solutions",
 
- 🚀 Tech Stack
+    arsenal: {
+      blockchain: ["Solana", "Rust", "Anchor", "Web3.js", "Smart Contracts"],
+      aiml: ["Python", "TensorFlow", "LSTM", "GANs", "OpenCV", "Deep Learning"],
+      cloud: ["AWS Certified", "Azure Certified", "Google Cloud Certified"],
+      languages: ["Python", "JavaScript", "Rust", "Java", "SQL"]
+    },
 
-**Frontend:** React, TailwindCSS  
-**Machine Learning:** Python, TensorFlow, Keras, OpenCV  
-**Dev Tools:** GitHub, Vercel, Figma, Tesseract  
-**Cloud & Certs:** Azure, AWS, Google Cloud (Certified)
+    achievements: {
+      tokenSupplyLaunched: "10B+",
+      aiModelAccuracy: "90%+",
+      businessImpact: "25%",
+      projectSuccessRate: "100%"
+    },
 
----
- 📄 Resume & Contact
+    motto: "Code with purpose, build with passion, deploy with confidence 🔥"
+  };
 
-- 📧 **Email:** [madhurigade000@gmail.com](mailto:madhurigade000@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/madhuri-dhanunjai](https://linkedin.com/in/madhuri-dhanunjai)  
-- 🛠 **GitHub:** [github.com/Madhuri-4596](https://github.com/Madhuri-4596)  
-- 📄 **Resume:** [Download PDF](https://v0-new-project-adigmcfbfoa.vercel.app/Madhuri_Dhanunjai_resume_.pdf)
+  ---
+  🎯 PROJECT ARSENAL
 
----
+  🤖 AI POWERHOUSE PROJECTS
 
+  - 🩺 Kidney Disease Predictor - GAN + LSTM for healthcare AI
+  - 👁️ License Plate Vision System - 90%+ accuracy OCR with OpenCV
+  - 📈 Smart Forecasting Engine - Time-series inventory optimization
 
-Thank you for visiting my portfolio! Feel free to connect or reach out.
+  ⛓️ BLOCKCHAIN DOMINANCE
+
+  - 🚀 Solana Token Launch - 10B supply with migration logic
+  - ⚡ Bonding Curve Engine - Rust/Anchor price discovery system
+  - 🎯 Protocol Reverse Engineering - Full pump.fun replication
+
+  ---
+  📊 GITHUB STATS THAT PROVE IT
+
+  ---
+  🔥 TECH STACK THAT DOMINATES
+
+  Blockchain & Web3
+
+  https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
+  https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
+  https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white
+
+  AI/ML & Data Science
+
+  https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+  https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
+
+  Cloud & DevOps
+
+  https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+  https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white
+  https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+
+  Languages & Frameworks
+
+  https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+
+  ---
+  🎯 THE NUMBERS DON'T LIE
+
+  |       🔥 METRIC       | 📈 RESULT |             🎯 IMPACT             |
+  |-----------------------|-----------|-----------------------------------|
+  | Token Supply Launched |   10B+    |   Successful Solana deployment    |
+  |   AI Model Accuracy   |   90%+    |  Production-ready vision systems  |
+  |    Business Impact    |    25%    |  Real cost savings & efficiency   |
+  | Project Success Rate  |   100%    | Every project works in production |
+  | Cloud Certifications  |     3     |    AWS + Azure + Google Cloud     |
+
+  ---
+  🚀 CONNECT WITH THE BEAST
+
+  https://madhuri-4596.github.io/portfolio
+  https://www.linkedin.com/in/madhuri-dhanunjai/
+  madhurigade000@gmail.com
+  https://madhuri-4596.github.io/portfolio/Madhuri_updated_resume.pdf
+
+  🎯 Available for full-time opportunities | 🔥 Ready to build the future
+
+  ---
+  "From Solana tokens to AI forecasting — I turn complex problems into production-ready wins" 🚀
+
+  https://github.com/Madhuri-4596/Madhuri-4596/blob/output/github-contribution-grid-snake.svg
+
+  ⚡ Always curious, always building — and always ready to take on the next challenge!
