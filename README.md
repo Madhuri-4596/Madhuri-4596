@@ -1,152 +1,128 @@
-# 👋 Hello, I'm **Madhuri Gade**
+<div align="center">
 
-  ### **Blockchain Developer** • **AI/ML Engineer** • **VIT Vellore Graduate**
+# MADHURI GADE
+### FULL-STACK ENGINEERING · AI APPLICATIONS · WEB3
 
-  *Building innovative solutions at the intersection of blockchain technology and artificial intelligence*
+**From an API request to an AI conversation to a playable world.**
 
-  </div>
+I build software people can use — and keep building until the details work.
 
-  ---
+[![Live demo](https://img.shields.io/badge/EXPLORE-LIVE_DEMO-2DD4BF?style=for-the-badge&labelColor=0D1117)](https://clinic-slot-assistant.vercel.app/)
+[![Open source](https://img.shields.io/badge/OPEN_SOURCE-MERGED_PR_%23505-A78BFA?style=for-the-badge&labelColor=0D1117)](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/505)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-60A5FA?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/madhuri-dhanunjai/)
 
-  ## 🚀 **Current Position**
+**Full-Stack + AI Developer @ TensorLinks** · VIT Vellore ’25 · India
 
-  **Blockchain Developer Intern** at **Persist Ventures** *(Remote, USA)*
-  - Developing and deploying Solana-based token systems with 10B+ supply management
-  - Engineering bonding curve mechanisms using Rust and Anchor framework
-  - Reverse-engineering DeFi protocols and building custom Web3.js integrations
-  - Delivering technical demonstrations to investors and stakeholders
+</div>
 
-  ---
+---
 
-  ## 💼 **Professional Experience**
+## 01 / THE BUILD THAT SPEAKS
 
-  <table>
-  <tr>
-  <td width="50%" valign="top">
+### ☎️ Clinic Slot Assistant
+**A phone-call agent for appointment availability, with a human reviewing the booking decision.**
 
-  ### **Blockchain Development**
-  **Persist Ventures, USA** *(Current)*
-  - **Solana Token Launch**: 10B+ supply with migration logic
-  - **Smart Contract Development**: Rust & Anchor
-  - **DeFi Protocol Analysis**: Custom Web3.js solutions
-  - **Investor Presentations**: Technical demos & documentation
+Built for the CALL-E hackathon: an appointment dashboard, a clearly labelled simulated workflow, and a real test-call demonstration. Fictional appointment data keeps the demo separate from clinical care.
 
-  </td>
-  <td width="50%" valign="top">
+- Preview the conversation before starting a call.
+- Inspect the conversation and availability result.
+- Review the result before confirming a test booking.
+- Contributed to **CALLE-AI/awesome-phone-call-agents** through **merged PR #505**.
 
-  ### **AI/ML Engineering**
-  **Techqflow Software Solutions** *(5 months)*
-  - **Model Development**: 90%+ accuracy achievements
-  - **Data Pipeline Engineering**: 10k+ records processing
-  - **Production Deployment**: Real-time forecasting systems
-  - **Business Impact**: 25% operational efficiency improvement
+[**Try the portal ↗**](https://clinic-slot-assistant.vercel.app/) · [**Watch the 2:59 demo ↗**](https://youtu.be/0zoPjKhLcLs) · [**Read the code ↗**](https://github.com/Madhuri-4596/clinic-slot-assistant) · [**Devpost ↗**](https://devpost.com/software/clinic-slot-assistant)
 
-  </td>
-  </tr>
-  </table>
+---
 
-  ---
+## 02 / DIFFERENT WORLDS. SAME BUILDER.
 
-  ## 🎯 **Technical Portfolio**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <div align="center">
+### 🧪 ReqBro
+**Developer tools / Built**
 
-  ### **Featured Projects**
+API testing from your phone, with a bot to help troubleshoot issues. Built around making debugging more accessible away from a desktop.
 
-  </div>
+</td>
+<td width="50%" valign="top">
 
-  | Project | Technology Stack | Achievement | Status |
-  |---------|------------------|-------------|---------|
-  | **🩺 Chronic Kidney Disease Predictor** | Python, GANs, LSTM, TensorFlow | Healthcare AI with temporal analysis | ✅ Deployed |
-  | **👁️ License Plate Recognition System** | OpenCV, Tesseract OCR, Python | 90%+ accuracy with real-time processing | ✅ Production |
-  | **📈 Hotel Inventory Forecasting** | LSTM, Time-Series Analysis, Python | 25% efficiency improvement | ✅ Live |
-  | **⛓️ Solana Token Migration System** | Rust, Anchor, Web3.js, Solana | 10B+ token supply management | ✅ Deployed |
+### 🌱 CarbonLaunchpad
+**Web3 / Built**
 
-  ---
+A project from my blockchain journey. My background includes Solana experience and four months as a blockchain developer at Persist Ventures.
 
-  ## 🛠️ **Technical Expertise**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  <div align="center">
+### 🎮 MURDERMARK
+**Unity / In development**
 
-  ### **Core Technologies**
+A crime-thriller game I am currently building. My space to explore interactive storytelling and game development.
 
-  **Blockchain & Web3:** Solana • Rust • Anchor • Web3.js • Smart Contracts
-  **AI/ML & Data Science:** Python • TensorFlow • LSTM • OpenCV • GANs • Scikit-Learn
-  **Cloud Platforms:** AWS (Certified) • Microsoft Azure (Certified) • Google Cloud (Certified)
-  **Development:** JavaScript • Node.js • React • Java • SQL • Git/GitHub
+</td>
+<td width="50%" valign="top">
 
-  </div>
+### 🛡️ ShiftGuard Agent
+**AI agents / In development**
 
-  ---
+An agent project prepared for Agents for Humans, exploring AWS Strands Agents. Live Bedrock integration is still a work in progress.
 
-  ## 🎓 **Education & Certifications**
+[Explore the repository →](https://github.com/Madhuri-4596/shiftguard-agent)
 
-  <div align="center">
+</td>
+</tr>
+</table>
 
-  | Degree/Certification | Institution/Provider | Year | Specialization |
-  |----------------------|---------------------|------|----------------|
-  | **B.Tech Computer Science** | VIT Vellore | 2025 | Software Engineering, AI/ML |
-  | **AWS Solutions Architect** | Amazon Web Services | 2024 | Cloud Architecture |
-  | **Microsoft Azure Fundamentals** | Microsoft | 2024 | Cloud Computing |
-  | **Google Cloud Professional** | Google Cloud | 2024 | Data Engineering |
+### More from the lab
 
-  </div>
+[**Computer vision / License plate recognition**](https://github.com/Madhuri-4596/AI-Powered-License-Plate-Detection-and-Recognition) · [**Forecasting / Hotel inventory demand**](https://github.com/Madhuri-4596/Time-Series-Demand-Forecasting-for-Hotel-Bar-Operations.) · [**Web3 / Solana bonding curve**](https://github.com/Madhuri-4596/solana-bonding-curve)
 
-  ---
+---
 
-  ## 📈 **Key Achievements**
+## 03 / EXPERIENCE BEHIND THE PROJECTS
 
-  <div align="center">
+**NOW — TensorLinks / Full-Stack + AI Developer**  
+Building applications around real client requirements. On Clinic-Assist AI, I traced an analytics mismatch to stale cached data, corrected cache refresh behaviour, and checked displayed figures against the underlying records with teammates.
 
-  ```typescript
-  interface ProfessionalProfile {
-    name: "Madhuri Gade";
-    role: "Blockchain Developer & AI/ML Engineer";
-    location: "Kadapa, Andhra Pradesh, India";
-    education: "B.Tech CSE - VIT Vellore (2025)";
+**PREVIOUSLY — Persist Ventures / Blockchain Developer · 4 months**  
+Experience working in Web3 and with Solana, alongside building CarbonLaunchpad.
 
-    currentWork: {
-      company: "Persist Ventures";
-      position: "Blockchain Developer Intern";
-      location: "Remote, USA";
-      focus: ["Solana Development", "DeFi Protocols", "Token Economics"];
-    };
+**FOUNDATION — VIT Vellore / B.Tech · 2025**  
+Coding since my second year of college, with around one year of professional experience and a portfolio spanning web apps, AI, blockchain and games.
 
-    technicalAchievements: {
-      blockchainDeployments: "10B+ token supply";
-      aiModelAccuracy: "90%+";
-      businessImpact: "25% efficiency improvement";
-      successRate: "100%";
-    };
+---
 
-    expertise: {
-      blockchain: ["Solana", "Rust", "Anchor", "Web3.js"];
-      aiml: ["Python", "TensorFlow", "LSTM", "OpenCV"];
-      cloud: ["AWS", "Azure", "Google Cloud"];
-      languages: ["Python", "JavaScript", "Rust", "Java"];
-    };
+## 04 / MY TOOLKIT
 
-    philosophy: "Innovation through practical application";
-  }
+| Build the interface | Connect the system | Make it intelligent | Package & explore |
+| :--- | :--- | :--- | :--- |
+| React · Next.js | Node.js · Python | RAG · LLM APIs | Docker · Kubernetes |
+| JavaScript · HTML/CSS | FastAPI · Spring Boot | AI application development | Git · GitHub |
+| UI development | Java · Kotlin | Computer vision projects | Solana · Unity |
 
-  ---
-  🌟 Professional Highlights
+<details>
+<summary><b>What I care about when I build</b></summary>
 
-  |          Metric          |     Achievement     |          Impact          |
-  |--------------------------|---------------------|--------------------------|
-  |   🚀 Token Deployments   | 10B+ Supply Managed | Successful Solana Launch |
-  | 🤖 AI Model Performance  | 90%+ Accuracy Rate  | Production-Ready Systems |
-  | 📊 Business Optimization | 25% Efficiency Gain |    Real Cost Savings     |
-  | ☁️ Cloud Certifications  |  3 Major Platforms  |  Multi-Cloud Expertise   |
-  | 🏆 Project Success Rate  |   100% Completion   |    Reliable Delivery     |
+- **Working evidence:** repositories, demos and reproducible behaviour.
+- **Clear boundaries:** label simulations and keep unfinished work honest.
+- **Useful AI:** connect models to a real workflow, with review where it matters.
+- **Reliable data:** investigate mismatches instead of hiding them behind a polished screen.
 
-  ---
-  📞 Contact Information
+</details>
 
-  📧 Email: madhurigade000@gmail.com💼 LinkedIn: linkedin.com/in/madhuri-dhanunjai🌐 Portfolio: madhuri-4596.github.io/portfolio📍 Location: Kadapa,     
-  Andhra Pradesh, India
+---
 
-  ---
-  Currently available for full-time opportunities in blockchain development and AI/ML engineering
+<div align="center">
 
-  "Building tomorrow's technology with today's innovation"
+### BUILD SOMETHING WORTH OPENING.
+
+Open to **Full-Stack, AI Application and Software Engineering opportunities**, including international roles with relocation support.
+
+[**Connect on LinkedIn**](https://www.linkedin.com/in/madhuri-dhanunjai/) · [**Explore my repositories**](https://github.com/Madhuri-4596?tab=repositories)
+
+<sub>Currently building, debugging and learning. Project status updated September 2026.</sub>
+
+</div>
