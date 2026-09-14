@@ -8,7 +8,6 @@
 I build software people can use — and keep building until the details work.
 
 [![Live demo](https://img.shields.io/badge/EXPLORE-LIVE_DEMO-2DD4BF?style=for-the-badge&labelColor=0D1117)](https://clinic-slot-assistant.vercel.app/)
-[![Open source](https://img.shields.io/badge/OPEN_SOURCE-MERGED_PR_%23505-A78BFA?style=for-the-badge&labelColor=0D1117)](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/505)
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LINKEDIN-60A5FA?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/madhuri-dhanunjai/)
 
 **Full-Stack + AI Developer @ TensorLinks** · VIT Vellore ’25 · India
@@ -27,7 +26,6 @@ Built for the CALL-E hackathon: an appointment dashboard, a clearly labelled sim
 - Preview the conversation before starting a call.
 - Inspect the conversation and availability result.
 - Review the result before confirming a test booking.
-- Contributed to **CALLE-AI/awesome-phone-call-agents** through **merged PR #505**.
 
 [**Try the portal ↗**](https://clinic-slot-assistant.vercel.app/) · [**Watch the 2:59 demo ↗**](https://youtu.be/0zoPjKhLcLs) · [**Read the code ↗**](https://github.com/Madhuri-4596/clinic-slot-assistant) · [**Devpost ↗**](https://devpost.com/software/clinic-slot-assistant)
 
